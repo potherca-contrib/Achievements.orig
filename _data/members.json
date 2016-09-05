@@ -136,7 +136,12 @@
         {
           "name": "Christian",
           "fullname": "Christian Ropertz",
-          "initials": "C.R.",
+          "initials": "C.R."
+        },
+        {
+          "name": "Edward",
+          "fullname": "Edward de Wit",
+          "initials" "E.W."
         }
       ]
     }

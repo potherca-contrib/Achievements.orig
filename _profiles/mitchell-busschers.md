@@ -8,10 +8,10 @@ achievements :
   crayons       : 0
   darts         : 0
   dealerdirect  : 0
-  easteregg     : 1
+  easteregg     : 0
   fry           : 0
   happy         : 0
-  idea          : 1
+  idea          : 0
   legacy-project: 0
   magic         : 0
   maillove      : 0
@@ -20,12 +20,11 @@ achievements :
   patrick       : 0
   peacepipe     : 0
   pencil        : 0
-  poo           : 0
   progress      : 0
   roadblock     : 0
   sackofhay     : 0
   sad           : 0
   shield        : 0
   teamwork      : 0
-  thumb         : 0
+  thumb         : 1
 ---
